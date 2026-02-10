@@ -16,4 +16,16 @@ This repository is created for GitHub workshop practice.
 - README.md
 - intro.txt
 
+## Git Commands Used
+
+### git status
+Shows the current state of the working directory and staging area.
+
+### git log
+Displays the commit history of the repository.
+
+### git branch
+Lists all branches in the repository.
+
+
  
