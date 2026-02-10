@@ -5,7 +5,8 @@ College: < Kalasalingam University>
 Workshop Date: <10/02/2026>
 
 ## Project Description
-This repository is created for GitHub workshop practice - Branch A.
+This repository is created for GitHub workshop practice.
+
 
 
 ## How to Run
